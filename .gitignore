@@ -1,0 +1,17 @@
+# Compiled files
+*.class
+*.jar
+out/
+bin/
+build/
+
+# Live-updated rates (the bundled fallback in resources/ is kept)
+data/currency_rates.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.iml
+.idea/
+.vscode/
+*.log

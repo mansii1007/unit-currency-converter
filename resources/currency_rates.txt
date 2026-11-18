@@ -1,0 +1,18 @@
+# Offline fallback exchange rates for the Unit & Currency Converter.
+# Each value is the amount of that currency equal to 1 INR.
+# Example: USD=0.0114 means 1 INR = 0.0114 USD (and 1 USD ≈ 87.7 INR).
+# These figures are approximate and are replaced when "Refresh live rates" succeeds.
+# last_updated=2026-11-01
+# source=offline
+INR=1.0
+USD=0.0114
+EUR=0.0105
+GBP=0.0090
+JPY=1.73
+AUD=0.0174
+CAD=0.0159
+SGD=0.0148
+AED=0.0419
+CNY=0.0812
+CHF=0.0091
+NZD=0.0190
